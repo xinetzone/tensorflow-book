@@ -34,12 +34,12 @@ logger = logging.getLogger(project)
 
 def skip_submodules(app, what, name, obj, skip, options):
     # if what == "module":
-    #     if name in ['d2py.timeitx']:
+    #     if name in ['tensorflow-book.timeitx']:
     #         skip = True
     # if what == "package":
-    #     if name in ['d2py.utils']:
+    #     if name in ['tensorflow-book.utils']:
     #         skip = True
-    if 'd2py.utils' in name or 'd2py.timeitx' in name or "d2py.analysis" in name:
+    if 'tensorflow-book.utils' in name or 'tensorflow-book.timeitx' in name or "tensorflow-book.analysis" in name:
         skip = True
     # logging.debug(f"skip_submodules: {what, name, obj, skip, options}")
     return skip

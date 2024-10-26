@@ -1,1 +1,0 @@
-from gym_multigrid.collect_game import CollectGame4HEnv100x100N2
