@@ -15,8 +15,8 @@
 
 学无止境！
 
-[pypi-badge]: https://img.shields.io/pypi/v/tensorflow-book.svg
-[pypi-link]: https://pypi.org/project/tensorflow-book/
+[pypi-badge]: https://img.shields.io/pypi/v/d2py.svg
+[pypi-link]: https://pypi.org/project/d2py/
 [issue-badge]: https://img.shields.io/github/issues/xinetzone/tensorflow-book
 [issue-link]: https://github.com/xinetzone/tensorflow-book/issues
 [fork-badge]: https://img.shields.io/github/forks/xinetzone/tensorflow-book
@@ -31,23 +31,10 @@
 [watcher-link]: https://github.com/xinetzone/tensorflow-book/watchers
 [binder-badge]: https://mybinder.org/badge_logo.svg
 [binder-link]: https://mybinder.org/v2/gh/xinetzone/tensorflow-book/main
-[install-badge]: https://img.shields.io/pypi/dw/tensorflow-book?label=pypi%20installs
-[install-link]: https://pypistats.org/packages/tensorflow-book
-[status-badge]: https://readthedocs.org/projects/tensorflow-book/badge/?version=latest
-[status-link]: https://tensorflow-book.readthedocs.io/zh/latest/?badge=latest
-[download-badge]: https://pepy.tech/badge/tensorflow-book
-[download-link]: https://pepy.tech/project/tensorflow-book
+[install-badge]: https://img.shields.io/pypi/dw/d2py?label=pypi%20installs
+[install-link]: https://pypistats.org/packages/d2py
+[status-badge]: https://readthedocs.org/projects/d2py/badge/?version=latest
+[status-link]: https://d2py.readthedocs.io/zh/latest/?badge=latest
+[download-badge]: https://pepy.tech/badge/d2py
+[download-link]: https://pepy.tech/project/d2py
 
-## PyPI
-
-支持 PyPI：
-
-```sh
-pip install tensorflow-book
-```
-
-## 文档模板
-
-优质文档模板：
-
-- [xbook](https://xinetzone.github.io/xbook/index.html)
