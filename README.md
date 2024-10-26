@@ -1,6 +1,6 @@
-# 动手学习 Python
+# 动手学习 TensorFlow
 
-![repo size](https://img.shields.io/github/repo-size/xinetzone/d2py.svg)
+![repo size](https://img.shields.io/github/repo-size/xinetzone/tensorflow-book.svg)
 [![PyPI][pypi-badge]][pypi-link]
 [![GitHub issues][issue-badge]][issue-link]
 [![GitHub forks][fork-badge]][fork-link]
@@ -15,35 +15,35 @@
 
 学无止境！
 
-[pypi-badge]: https://img.shields.io/pypi/v/d2py.svg
-[pypi-link]: https://pypi.org/project/d2py/
-[issue-badge]: https://img.shields.io/github/issues/xinetzone/d2py
-[issue-link]: https://github.com/xinetzone/d2py/issues
-[fork-badge]: https://img.shields.io/github/forks/xinetzone/d2py
-[fork-link]: https://github.com/xinetzone/d2py/network
-[star-badge]: https://img.shields.io/github/stars/xinetzone/d2py
-[star-link]: https://github.com/xinetzone/d2py/stargazers
-[license-badge]: https://img.shields.io/github/license/xinetzone/d2py
-[license-link]: https://github.com/xinetzone/d2py/LICENSE
-[contributor-badge]: https://img.shields.io/github/contributors/xinetzone/d2py
-[contributor-link]: https://github.com/xinetzone/d2py/contributors
-[watcher-badge]: https://img.shields.io/github/watchers/xinetzone/d2py
-[watcher-link]: https://github.com/xinetzone/d2py/watchers
+[pypi-badge]: https://img.shields.io/pypi/v/tensorflow-book.svg
+[pypi-link]: https://pypi.org/project/tensorflow-book/
+[issue-badge]: https://img.shields.io/github/issues/xinetzone/tensorflow-book
+[issue-link]: https://github.com/xinetzone/tensorflow-book/issues
+[fork-badge]: https://img.shields.io/github/forks/xinetzone/tensorflow-book
+[fork-link]: https://github.com/xinetzone/tensorflow-book/network
+[star-badge]: https://img.shields.io/github/stars/xinetzone/tensorflow-book
+[star-link]: https://github.com/xinetzone/tensorflow-book/stargazers
+[license-badge]: https://img.shields.io/github/license/xinetzone/tensorflow-book
+[license-link]: https://github.com/xinetzone/tensorflow-book/LICENSE
+[contributor-badge]: https://img.shields.io/github/contributors/xinetzone/tensorflow-book
+[contributor-link]: https://github.com/xinetzone/tensorflow-book/contributors
+[watcher-badge]: https://img.shields.io/github/watchers/xinetzone/tensorflow-book
+[watcher-link]: https://github.com/xinetzone/tensorflow-book/watchers
 [binder-badge]: https://mybinder.org/badge_logo.svg
-[binder-link]: https://mybinder.org/v2/gh/xinetzone/d2py/main
-[install-badge]: https://img.shields.io/pypi/dw/d2py?label=pypi%20installs
-[install-link]: https://pypistats.org/packages/d2py
-[status-badge]: https://readthedocs.org/projects/d2py/badge/?version=latest
-[status-link]: https://d2py.readthedocs.io/zh/latest/?badge=latest
-[download-badge]: https://pepy.tech/badge/d2py
-[download-link]: https://pepy.tech/project/d2py
+[binder-link]: https://mybinder.org/v2/gh/xinetzone/tensorflow-book/main
+[install-badge]: https://img.shields.io/pypi/dw/tensorflow-book?label=pypi%20installs
+[install-link]: https://pypistats.org/packages/tensorflow-book
+[status-badge]: https://readthedocs.org/projects/tensorflow-book/badge/?version=latest
+[status-link]: https://tensorflow-book.readthedocs.io/zh/latest/?badge=latest
+[download-badge]: https://pepy.tech/badge/tensorflow-book
+[download-link]: https://pepy.tech/project/tensorflow-book
 
 ## PyPI
 
 支持 PyPI：
 
 ```sh
-pip install d2py
+pip install tensorflow-book
 ```
 
 ## 文档模板
