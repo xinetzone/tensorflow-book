@@ -1,5 +1,5 @@
-import tensorflow-book
-from tensorflow-book.utils.log_config import config_logging
+import tensorflow_book
+from d2py.utils.log_config import config_logging
 # -- Project information -----------------------------------------------------
 
 project = 'tensorflow-book'
