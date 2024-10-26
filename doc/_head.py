@@ -339,7 +339,7 @@ autodoc_member_order = "groupwise"
 
 # -- Options for autoapi -------------------------------------------------------
 autoapi_type = "python"
-autoapi_dirs = ["../src/tensorflow-book"]
+autoapi_dirs = ["../src/tensorflow_book"]
 autoapi_keep_files = True # 要开始自己编写 API 文档，你可以让 AutoAPI 保留其生成的文件作为基础
 autoapi_root = "api"
 autoapi_member_order = "groupwise"
